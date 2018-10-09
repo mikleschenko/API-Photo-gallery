@@ -1,1 +1,1 @@
-# API-Photo-gallery
+# API-Photo-gallery from Pixabay
